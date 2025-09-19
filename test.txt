@@ -1,0 +1,13 @@
+answer 1 = (b)new reop init
+answer 2 = (b)gui git ops
+answer 3 = (b)repo copy local
+answer 4 = (a)same
+answer 5 = (c)stage changes
+
+
+answer 6 = git fetch use to take latest data but working repo doesnt changes
+         git pull = when we pull a repo from git hub so it get fetch and merge and local repo also changes
+         git clone = ye reomte repo ko full copy karta hai or  local machine par banta hai
+
+
+answer 7 = 
