@@ -22,3 +22,5 @@ answer 8 = git log use to see the history of what we commit what we addeed to br
 
 
         lets see in terminals
+
+        ANSWER 9= in this situation we uses git branch -d "branch name"
