@@ -10,4 +10,4 @@ answer 6 = git fetch use to take latest data but working repo doesnt changes
          git clone = ye reomte repo ko full copy karta hai or  local machine par banta hai
 
 
-answer 7 = 
+hello sir yaha ab mai pull karunga is file ko 
