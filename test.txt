@@ -24,3 +24,11 @@ answer 8 = git log use to see the history of what we commit what we addeed to br
         lets see in terminals
 
         ANSWER 9= in this situation we uses git branch -d "branch name"
+        solution done in new.py
+
+        answer 10 =  branching ka use alag feature ya bug fix karne ke liye hota hai bina main branch ko disturb kiye 
+
+        git checkout -b feature login 
+        git checkout main 
+        git merge feature login 
+         
