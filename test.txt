@@ -15,3 +15,10 @@ hello sir yaha ab mai pull karunga is file ko
 
 answer 7 = yha pe ab mai git hub desktop ka prac karunga
 hhhhhhh
+
+
+answer 8 = git log use to see the history of what we commit what we addeed to branch
+        = git status use to see what new added in repo or something new in repo or its status that commited or not
+
+
+        lets see in terminals
