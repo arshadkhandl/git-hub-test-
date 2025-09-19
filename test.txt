@@ -32,3 +32,16 @@ answer 8 = git log use to see the history of what we commit what we addeed to br
         git checkout main 
         git merge feature login 
          
+
+         answer 11 = already done in many questuins 
+
+         answer 12 = git hub ki limitation 
+git hub mai file ki storage 100 mb tak hoti hai 
+100 mb se zyada ki file push karnege toh error aaeyaga 
+
+*respository size limit 
+. recomanded size 1 gb 
+. hard limit 5 gb uske baad issue aane lagte hai 
+
+*LFS(large file storage)
+.git lfs ek extention hai jo large files jaise images ,videos ko git hub par manage karne deta hai  
